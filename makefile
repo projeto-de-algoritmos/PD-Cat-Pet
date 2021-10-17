@@ -1,4 +1,4 @@
-posi := "./src/posicao.cpp"
+posi := "./src/posicao_e_preco.cpp"
 
 
 start:
