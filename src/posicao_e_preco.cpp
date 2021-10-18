@@ -226,7 +226,7 @@ int main(){
     show(calc_posicao(valor_total));
  
 
-    finalizar()
+    finalizar();
      
 
     return 0;
