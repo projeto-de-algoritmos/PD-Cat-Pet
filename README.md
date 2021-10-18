@@ -44,13 +44,13 @@ O principal objetivo desse projeto é resolver um problema que surgiu em um prob
 
 ## Uso 
 
-Passo 1: Executar
+### Passo 1: Executar
  
-Para executar o software:
+**Para executar o software:**
  
 ``make start``
  
-Caso você não tenha o make instalado pode usar os seguintes comandos:
+**Caso você não tenha o make instalado pode usar os seguintes comandos:**
  
 ``g++ ./src/posicao_e_preco.cpp -o prog``
  
@@ -58,27 +58,27 @@ Caso você não tenha o make instalado pode usar os seguintes comandos:
  
 ``./prog``
  
-Passo 2: Home e informações
+### Passo 2: Home e informações
  
-Primeiro vai abrir a home para você, logo depois é mostrado algumas informações.
+**Primeiro vai abrir a home para você, logo depois é mostrado algumas informações.**
  
-Passo 3: Entradas
+### Passo 3: Entradas
  
-Entrada 1:  é o tamanho da fila, por exemplo uma entrada de tamanho 5, logo a fila fica mais ou menos assim:
+**Entrada 1:**  é o tamanho da fila, por exemplo uma entrada de tamanho 5, logo a fila fica mais ou menos assim:
 **|0|0|0|0|0|**
 (Lembrando que o 'X' é o espaço vazio e o '0' é  pets na fila)
  
-Entrada 2: Aqui é lido o valor da consulta de cada pet, por exemplo.
+**Entrada 2:** Aqui é lido o valor da consulta de cada pet, por exemplo.
  
 **|20$|30$|50$|30$|10$|**
  
-Passo 4: Saídas
+### Passo 4: Saídas
 
-Saída 1: Reorganizada a fila segundo a OMS, vai ser retornado o maior valor possível. No exemplo acima a saída é: **80**, por que esse valor? Reorganizado a fila segundo a OMS a fila fica da seguinte maneira.
+**Saída 1:** Reorganizada a fila segundo a OMS, vai ser retornado o maior valor possível. No exemplo acima a saída é: **80**, por que esse valor? Reorganizado a fila segundo a OMS a fila fica da seguinte maneira.
  
 **|0|x|0|x|0|**, sempre deixando um espaço entre as consultas.
  
-Segunda saída: aqui mostra quais consultas devem ser escolhidas para obter o maior valor.  No exemplo acima a saída é: **Selecione apenas a(s) consulta(s) 5 3 1**
+**Segunda saída:** aqui mostra quais consultas devem ser escolhidas para obter o maior valor.  No exemplo acima a saída é: **Selecione apenas a(s) consulta(s) 5 3 1**
 
 
 
