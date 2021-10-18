@@ -26,7 +26,15 @@ Temas:
 Descreva os objetivos do seu projeto e como ele funciona. 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+![](https://raw.githubusercontent.com/projeto-de-algoritmos/PD-PWD/master/images/menu.png)
+
+![](https://raw.githubusercontent.com/projeto-de-algoritmos/PD-PWD/master/images/info-geral.png)
+
+![](https://raw.githubusercontent.com/projeto-de-algoritmos/PD-PWD/master/images/probelma.png)
+
+![](https://raw.githubusercontent.com/projeto-de-algoritmos/PD-PWD/master/images/resposta-final.png)
+
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
