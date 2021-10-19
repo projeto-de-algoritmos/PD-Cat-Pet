@@ -60,7 +60,6 @@ vector<int> calc_posicao(vector<int> preco){
 
 
 
-
 void show(vector<int> sol){
     for(int pos : sol)
         cout << pos +1 << " ";
